@@ -1,0 +1,63 @@
+Wodex — Rights and Usage Notice / 权利与使用说明
+Copyright (c) 2026 Wodex contributors. All rights reserved.
+
+English
+
+1. This public repository presents an independent, non-commercial AI hobby
+   experiment, made out of curiosity and for fun. It does not distribute the
+   Runtime, addon, Skills, navigation data or other installable software.
+   This notice is not an open-source software license and grants no rights
+   to unpublished code or data.
+
+2. To the extent recognized by applicable law, rights in original Wodex text
+   and arrangement are reserved by their respective authors. You are welcome
+   to share a link. This notice does not restrict rights granted under GitHub's
+   Terms of Service, including viewing and on-platform forking, or uses
+   otherwise permitted by applicable law.
+
+3. World of Warcraft, Warcraft, Blizzard Entertainment and related game
+   footage, assets and trademarks belong to Blizzard and their respective
+   owners. They are not relicensed here. Wodex is not endorsed by Blizzard
+   and does not claim Blizzard's authorization for gameplay automation.
+
+4. Accounts, game clients and automation remain subject to the applicable
+   operator's terms, license agreements and game rules. Hobby or research
+   intent does not waive those rules. A video policy is not permission to
+   automate a character.
+
+5. This showcase is provided as-is, without warranties of accuracy,
+   availability, game compatibility or account safety. Discussion of a
+   possible future code or data release is neither a release commitment
+   nor a present license.
+
+中文
+
+1. 本公开仓库用于展示一个出于好奇和好玩的独立、非商业 AI 实验。
+   它不提供 Runtime、插件、Skills、导航数据或其他可安装软件。
+   本说明不是开源软件许可证，也不对未公开的代码或数据授予任何许可。
+
+2. 在适用法律认可的范围内，Wodex 原创文字及编排的权利由各自作者保留。
+   欢迎分享本仓库链接。本说明不限制 GitHub 服务条款授予用户的查看、
+   平台内 fork 等权利，也不限制适用法律允许的使用。
+
+3. World of Warcraft、Warcraft、Blizzard Entertainment 及相关游戏画面、
+   素材和商标归暴雪及各自权利人所有；它们不由本项目重新许可。
+   Wodex 未获暴雪背书，也不声称获得暴雪的自动化许可。
+
+4. 账号、游戏客户端及自动化的使用须遵守适用的运营方服务条款、许可
+   协议和游戏规则。“仅供娱乐”或“研究实验”不会豁免这些规则。
+   视频展示政策也不等于允许自动控制角色。
+
+5. 展示按现状提供，不保证准确性、可用性、游戏兼容性或账号安全。
+   关于后续开放代码或数据的讨论不构成发布承诺或当前许可。
+
+References / 参考
+
+Blizzard End User License Agreement:
+https://www.blizzard.com/en-us/legal/simple/bfbbb648-bcc6-4b78-a5c7-e2fe20c135df/blizzard-end-user-license-agreement
+
+Blizzard Video Policy:
+https://www.blizzard.com/en-gb/legal/2068564f-f427-4c1c-8664-c107c90b34d5/blizzard-video-policy
+
+GitHub Terms of Service:
+https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
